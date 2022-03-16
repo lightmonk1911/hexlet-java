@@ -1,1 +1,1 @@
-# hexlet-java
+# io.hexlet-java
